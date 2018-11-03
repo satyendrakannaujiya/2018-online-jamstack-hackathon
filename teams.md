@@ -32,3 +32,16 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * [GitHub URL](https://github.com/your-profile/your-project-name)
 
 ***
+
+
+# Project Name
+### Less than 240 Characters describing what we're building. Include external links here if desired
+* Teammates:
+    - Satyendra kannaujiya (@satyendra)
+    
+* Seeking Teammates: No
+* [Project URL](https://github.com/your-profile/your-project-name)
+* Project Name (ok to say "coming soon" and update it later)
+
+***
+
